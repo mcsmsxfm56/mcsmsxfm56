@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcsmsxfm56" alt="mcsmsxfm56" /></a> </p>
 
-- 🔭 I’m currently working on [PI - Pokemon](https://github.com/mcsmsxfm56/PI-Pokemon)
+- 🔭 I’m currently working on [Ecommerce pc equipments](https://github.com/mcsmsxfm56/Ecommerce)
 
 - 🌱 I’m currently learning **Typescript**
 
